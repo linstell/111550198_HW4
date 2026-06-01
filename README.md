@@ -186,8 +186,7 @@ src/
 ├── inference.py      # Inference with auto-detect architecture + TTA
 ├── validate_inference.py  # Pipeline validation tool
 ├── check_dataset.py  # Dataset sanity check
-├── check_submission.py    # Submission format validator
-└── ensemble_old_models.py # Ensemble inference for old checkpoints
+└── check_submission.py    # Submission format validator
 checkpoints/          # (not committed — too large)
 outputs/              # Generated predictions
 ```
