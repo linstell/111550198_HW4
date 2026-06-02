@@ -170,9 +170,9 @@ PatchEmbed (3 → C)
 | New model 64ch | PromptIRNet 15.4M | Stage 1 | 30.31 |
 | New model 64ch | PromptIRNet 15.4M | Stage 2 | 30.43 |
 
-> **Current best: 30.47** (above strong baseline of 30.0)
+> **Current best: 30.6** (above strong baseline of 30.0)
 
-*[Insert leaderboard screenshot here]*
+<img width="2911" height="350" alt="image" src="https://github.com/user-attachments/assets/acf542ee-5da6-4994-bb67-2d437ed8b27c" />
 
 ---
 
